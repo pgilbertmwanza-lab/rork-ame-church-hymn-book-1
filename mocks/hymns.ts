@@ -2086,16 +2086,16 @@ export const HYMNS: Hymn[] = [
     category: "Prophecy",
     verses: [],
     versesBemba: [
-      "Kasesema ni Esaya Pamo na bambi bene,\nBasesemyo kwisa kwakwe Kukupususha abantu.",
-      "Ifwe buseko pamo no kwanga Fwebalekonka Yesu,\nImwe cikonko no ku culisha Mwe balekonka Ciwa",
-      "Ubushiku bushilotwa Mwitanga Iyang'ombe,\nMwafyalilwo mupusushi Nika fula wa fita.",
-      "Ifwe buseko pamo no kwanga Fwebalekonka Yesu,\nImwe cikonko no ku culisha Mwe balekonka Ciwa",
-      "Ni Yoani kabatisha Emwana sakaria,\nAsobelyo kwisa kwakwe Kuti nomba ali mupepi.",
-      "Ifwe buseko pamo no kwanga Fwebalekonka Yesu,\nImwe cikonko no ku culisha Mwe balekonka Ciwa",
-      "Malaika aebele Bakakumba ati,\nKabiyeni mwi tanga Mwalayasanga mulopwe.",
-      "Ifwe buseko pamo no kwanga Fwebalekonka Yesu,\nImwe cikonko no ku culisha Mwe balekonka Ciwa",
-      "Ifikansa fyalimine Batu uyu tekatula,\nAkesa fye takafyalwe Uyu ni mwana ka basa.",
-      "Ifwe buseko pamo no kwanga Fwebalekonka Yesu,\nImwe cikonko no ku culisha Mwe balekonka Ciwa\nAmen"
+      "Kasesema ni Esaya Pamo na bambi bene\nBasesemyo kwisa kwakwe Kukupususha abantu.",
+      "Ifwe buseko pamo no kwanga Fwebalekonka Yesu\nImwe cikonko no ku culisha Mwe balekonka Ciwa",
+      "Ubushiku bushilotwa Mwitanga Iyang'ombe\nMwafyalilwo mupusushi Nika fula wa fita.",
+      "Ifwe buseko pamo no kwanga Fwebalekonka Yesu\nImwe cikonko no ku culisha Mwe balekonka Ciwa",
+      "Ni Yoani kabatisha Emwana sakaria\nAsobelyo kwisa kwakwe Kuti nomba ali mupepi.",
+      "Ifwe buseko pamo no kwanga Fwebalekonka Yesu\nImwe cikonko no ku culisha Mwe balekonka Ciwa",
+      "Malaika aebele Bakakumba ati\nKabiyeni mwi tanga Mwalayasanga mulopwe.",
+      "Ifwe buseko pamo no kwanga Fwebalekonka Yesu\nImwe cikonko no ku culisha Mwe balekonka Ciwa",
+      "Ifikansa fyalimine Batu uyu tekatula\nAkesa fye takafyalwe Uyu ni mwana ka basa.",
+      "Ifwe buseko pamo no kwanga Fwebalekonka Yesu\nImwe cikonko no ku culisha Mwe balekonka Ciwa\nAmen"
     ],
   },
   {
@@ -2106,10 +2106,9 @@ export const HYMNS: Hymn[] = [
     category: "Praise",
     verses: [],
     versesBemba: [
-      "Hossana wa mushilo Eo ndeimbila,\nMwana wa kwa David Aishile ine.",
-      "Hossana saungafwe Mu bucushi bwandi;\nWaishile fye weka Kukwisa tufwila",
-      "Aimba, umutima wekatula 'we\nNiwe fye wandubula Mucifungo candi,\nNiwe wampokolwele Iyo nali mubusha.",
-      "Ubwampokelya maka Naposa no mweo;\nNomba ni nsekelela Ni mfute filamba.\nAmen"
+      "Hossana wa mushilo Eo ndeimbila\nMwana wa kwa David, Aishile ine\nHossana saungafwe Mu bucushi bwandi\nWaishile fye weka Kukwisa ndubula",
+      "Lwimbo nshi nalaimba, Ukuti wimfyuka\nUuteyanye weka, umutima wandi\nNaupela ku liwe, We Katula wandi\nUsumbwile Kuli' we, Cine mfumu wandi",
+      "Niwe fye wandubula, mucifungo candi\nNiwe wampokolwele Iyo nali mu busha\nUbwampokelya maka Naposa no mweo;\nNomba ni nsekelela Ni mfute filamba.\nAmen"
     ],
   },
   {
