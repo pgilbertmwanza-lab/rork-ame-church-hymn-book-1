@@ -323,7 +323,8 @@ export const HYMNS: Hymn[] = [
       "Love divine, all loves excelling,\nJoy of heaven, to earth come down;",
     ],
     versesBemba: [
-      "Yangu kutemwa, mfumu katula\nMumulumbe ne mitulo\nMulubanye ciwamishe\nWaluse cine ca pe\nluse lwakwe ngo mumana\nKuli bonsho muyayaya\nKonasho muyayaya\nKonasho muyayaya\nKuli bonsho muyayaya",
+      "Yangu kutemwa, mfumu katula\nMumulumbe ne mitulo\nMulubanye ciwamishe\nWaluse cine ca pe",
+      "Luse lwakwe ngo mumana\nKuli bonsho muyayaya\nKonasho muyayaya\nKonasho muyayaya\nKuli bonsho muyayaya",
       "Kuboko kwakwe kwa maka\nLamba lyakwe lya mutende\nNa mu mfwa alapususha\nKutemwa kwakwe tufwaya",
       "Nshiku fye shonse kutemwa\nNe cikuku ca ku mulu\nMyaka yonse shiwi lyakwe;\nLyena talipwa busuma",
     ],
@@ -354,7 +355,8 @@ export const HYMNS: Hymn[] = [
       "O Lord, look down from heaven, behold\nAnd let Thy pity waken;",
     ],
     versesBemba: [
-      "Mwebafumo kutali ku bantu\nMumfwo kulila kwa bafibashi\nYesu ati bese baposhiwe\nUmo abwelele no kutota\nPabula bena balikwi\nBushe te kumi bacipola",
+      "Mwebafumo kutali ku bantu\nMumfwo kulila kwa bafibashi\nYesu ati bese baposhiwe\nUmo abwelele no kutota",
+      "Pabula bena balikwi\nBushe te kumi bacipola",
       "Abeni balelumbanye mfumu\nCo bapolele kwishiwi lyakwe\nApakulu pena nabapola\nYesu ati pabuli bali kwi",
       "Mukweshiwa yesu tukumone\nMubumba yati, bushe ali kwi\nNi pacinshi lesa mfumu yandi\nYakulabo bunte pa milimo",
       "Mu nasareti nshi uyu wine\nCine nga uli kristu twebeko\nBakonkele pa malangililo\nNo kumupapisha pa milimo.",
