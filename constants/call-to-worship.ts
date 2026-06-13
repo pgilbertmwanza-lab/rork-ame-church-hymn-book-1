@@ -10,7 +10,7 @@ export const CALL_TO_WORSHIP_ENGLISH: CallToWorshipLine[] = [
   },
   {
     role: "People",
-    text: "For a day in thy courts is better than a thousand elsewhere. I would rather be a doorkeeper in the house of my God than to live in the tents of wickedness.",
+    text: "For a day in thy courts is better than a thousand elsewhere. I would rather be a doorkeeper in the house of my God than to dwell in the tents of wickedness.",
   },
   {
     role: "Minister",
@@ -61,7 +61,7 @@ export const CALL_TO_WORSHIP_BEMBA: CallToWorshipLine[] = [
   },
   {
     role: "Abantu",
-    text: "Pantu imfumu yaba mu tempele lyakwe ilya mushilo, lekeni icalo conse citalale tondolo pa cinso cakwe.",
+    text: "Pantu imfumu yaba mwi tempele lyakwe ilya mushilo, lekeni icalo conse citalale tondolo pa cinso cakwe.",
   },
   {
     role: "Shi mapepo",
