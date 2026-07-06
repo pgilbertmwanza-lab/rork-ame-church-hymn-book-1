@@ -2222,7 +2222,7 @@ export const HYMNS: Hymn[] = [
     versesBemba: [
       "Koli lyobe lyalyanguka Ebumi bwa pe na pe\nTwatota pantu watupa Ukucimfya ukufwa\nCinecine twalipeIwa ku Iuse fye Iwa mfumu\nNatutotele fye bonse Twamwene pakubala",
       "Mu bwikalo bwandi bonse Ncetekela ku mulu\nUmweni lesa wesu akesa Akafuma kwa lesa\nAkesa pumikisha fye Pakwisa kukusenda\nNo kumfumya ubulanda Nkaleanga pe na pe",
-      "Ilyo nkese mo mbelele Nkapokelelwa no luse\nMu mwenso no kututuma Akangafwa katula\nNga nafilwa ukwingila Pa mulandu wa fibi\nNkamupapata akomfwa Akatila, “ingila”",
+      "Ilyo nkese mo mbelele Nkapokelelwa no luse\nMu mwenso no kututuma Akangafwa katula\nNga nafilwa ukwingila Pa mulandu wa fibi\nNkamupapata akomfwa Akatila, ingila",
       "Pakuya mukanshileko Icakufwala cenu\nMbe fye filya eliya Mfwale laya lishipwa\nNkafwala nga nalaisa No kwimba aleluya\nAleluya ndi mupepi No kulumbanya lesa.\nAmen"
     ],
   },
@@ -2236,10 +2236,10 @@ export const HYMNS: Hymn[] = [
     versesBemba: [
       "Mube naine mwe lesa wandi\nNomba kwafita mube naine\nTakuli uwakuyashinako\nWe kafwa wandi ube naine",
       "Inshiku shesu shipwa fye bwangu\nIfya pano tafibelelela\nTafikokola kupilibuka\nMwe bashaluka mube naine.",
-      "Ndamukabile nshita shonse fye\nMupelya maka ncimfye katunka\nUwakuntungulula nimwe fye\nMonsho mo mpita mube naine",
-      "Mwiisa nge mfumu ya shamfumu\nMu bukali no kutinya bantu\nMwishile mu luse no mutende\nNomba bwaila mube naine",
+      "Ndamukabile nshita shonse fye\nMumpelya maka ncimfye katunka\nUwakuntungulula nimwe fye\nMunsho mo mpita mube naine",
+      "Mwiisa nge Mfumu ya shamfumu\nMu bukali no kutinya bantu\nMwishile mu luse no mutende\nNomba bwaila mube naine",
       "Nshikwata mwenso nga epo muli\nMu bulanda mulansansamusha\nMfwa ne cilindi teti mfitine\nNcimfya fyonse nga muli naine",
-      "Nga nashi bata monyo lupanda\nNga bwaila mulebengeshima\nMu mulu mwena nomba nabuca\nMu bumi mu mfwa mube naine.\nAmen"
+      "Nga nashi bata monyo lupanda\nNga bwaila mulebengeshima\nMu mulu mwena nomba nabuca\nMu bumi mu mfwa mube naine",
     ],
   },
   {
@@ -3021,18 +3021,13 @@ export const HYMNS: Hymn[] = [
     category: "Encouragement",
     verses: [],
     versesBemba: [
-      "We mwina kristu wilatina\nWe mwina kristu wilatina\nKulwila lesa obe\nNangu iciwa cikutinye\nIwe wisakamana",
-      "we mu kristu wilatina kulwila lesa obe\nNangu imfwa ipalamine iwe wisakamana",
+      "We mwina kristu wilatina\nKulwila lesa obe\nNangu iciwa cikutinye\nIwe wisakamana",
+      "we mu kristu wilatina\nKulwila lesa obe\nNangu imfwa ipalamine\nIwe wisakamana",
       "We! Lesa leti nkaba nobe\nNelye mfwa ipalame\nAlekupele fyanso fingi\nPanuma ulecimfya",
-      "we mu kristu wilatina kulwila lesa obe\nNangu imfwa ipalamine iwe wisakamana",
-      "Lesa talekelesha wakwe\nMu bulanda na mu mfwa\nMu kututuma na mu bwafya\nAkulakakucinga pe.",
-      "we mu kristu wilatina kulwila lesa obe\nNangu imfwa ipalamine iwe wisakamana",
+      "Lesa talekelesha wakwe\nMu bulanda na mu mfwa\nMu kututuma na mu bwafya\nAkulakucinga pe.",
       "We! Icalo calyafya nganshi\nUbe fye uwashipa\nNga ciwa akupalamina\nUbe fye uwakosa",
-      "we mu kristu wilatina kulwila lesa obe\nNangu imfwa ipalamine iwe wisakamana",
       "Nge calo cakufutatila\nNobyo cifutatile\nUlosha menso kuli yesu\nWalamono lubuto",
-      "we mu kristu wilatina kulwila lesa obe\nNangu imfwa ipalamine iwe wisakamana",
       "Nangu ponenwe ne mipamba\nLolesha kuli yesu\nNangu cikonko no bulanda\nWena akulakwafwa",
-      "we mu kristu wilatina kulwila lesa obe\nNangu imfwa ipalamine iwe wisakamana"
     ],
   },
   {
@@ -3043,10 +3038,10 @@ export const HYMNS: Hymn[] = [
     category: "Heaven",
     verses: [],
     versesBemba: [
-      "Tamwaba bushiku\nTamwaba bushiku mu Mulu mwa Lesa\nMilimo imbi tamwaba\nKwanga kwa nshiku pe",
-      "Takwaba cikonko\nCimwemwe ne nseke\nIfilamba twalelila\nFyonse fyalifuta",
-      "Takwa fyabipa\nLelesho mulongo\nBonse bafwele fyabuta\nNe nimbo shashila",
-      "No kufwa takwa\nBapusuka bonse\nBali nno bumi ubwa pe\nBapusuka bonse",
+      "Tamwaba bushiku\nMu Mulu mwa Lesa\nMilimo imbi tamwaba\nKwanga kwa nshiku pe",
+      "Takwaba cikonko\nCimwemwe ne nseko\nIfilamba twalelila\nFyonse fyalifuta",
+      "Takwaba fyabipa\nLelesho mulongo\nBonse bafwele fyabuta\nNe nimbo shashila",
+      "No kufwa takwaba\nBapusuka bonse\nBali no bumi ubwa pe\nBapusuka bonse",
       "We yesu mushika\nUtungulule\nUletusunge nshiku pe\nUkese tusenda"
     ],
   },
@@ -3058,9 +3053,9 @@ export const HYMNS: Hymn[] = [
     category: "Prayer",
     verses: [],
     versesBemba: [
-      "Untungulule we mfumu\nUntungulule we mfumu\nNdi mweni muno calo\nNewanaka ungafweko\nNo kuboko kwa maka\nWe mukate wa m’mulu\nUndishe njikutishe",
-      "Usulapo pa cishima\nCa menshi ayamweo\nIkumbi lintungulule\nMu lwendo lwandi lonse\nMulubushi nkwela yandi\nCubo candi nshiku pe",
-      "Nga nafika pa yordani\nMtamfyo mwenso wandi\nUmukuku nga wakosa\nUngabusho mutende\nInyimbo sha kulumbanya\nNakulaimba fya pe."
+      "Untungulule we mfumu\nNdi mweni muno calo\nNewanaka ungafweko\nNo kuboko kwa maka\nWe mukate wa m’mulu\nUndishe njikutishe",
+      "Isulapo pa cishima\nCa menshi ayamweo\nIkumbi lintungulule\nMu lwendo lwandi lonse\nMulubushi nkwela yandi\nCubo candi nshiku pe",
+      "Nga nafika pa yordani\nN'tamfyo mwenso wandi\nUmukuku nga wakosa\nUngabusho mutende\nInyimbo sha kulumbanya\nNakulaimba fya pe",
     ],
   },
   {
