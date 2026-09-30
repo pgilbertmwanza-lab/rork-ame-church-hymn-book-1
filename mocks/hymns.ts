@@ -2568,9 +2568,7 @@ export const HYMNS: Hymn[] = [
       "Kwenda mu kasuba kabalike ‘ifi,\nMuli luba lya lucelo bushiku,\nTuleenda bashangile nshiku pe,\nTulekonka Yesu pe.",
       "Konka, tulekonka yesu konka\nUmo shicela,\nTuye konse atutwala\nTukonke Yesu nshila yonse.",
       "Mu lubuto lwa kasuba kabala\nNelyo ni mu mfifi yafitisha,\nKatula ‘leita shiendesheni!\nTulekonka Yesu pe.",
-      "Konka, tulekonka yesu konka\nUmo shicela,\nTuye konse atutwala\nTukonke Yesu nshila yonse.",
-      "Nangu kabalike, nangu mu mfifi,\nNelye fipupu fipunge monse fye\nIlyo fyatalala, cetekeleni\nMu Luse lwakwa Yesu.",
-      "Konka, tulekonka yesu konka\nUmo shicela,\nTuye konse atutwala\nTukonke Yesu nshila yonse.\nAMEN"
+      "Nangu kabalike, nangu mu mfifi,\nNelyo ifipupu fipunge monse fye\nIlyo fyatalala, cetekeleni\nMu Luse lwakwa Yesu.",
     ],
   },
   {
@@ -2581,13 +2579,11 @@ export const HYMNS: Hymn[] = [
     category: "Repentance",
     verses: [],
     versesBemba: [
-      "Ine naleti ndewamya Mufyo nalecita fyonse\nLubuto Iwambalikile Namono kuti nalifwa",
-      "Naishibe bwino bwino Ukuti ndi muntu mubi\nNapulile funde lyenu Nshasumine nelyo limo",
-      "Nali ne cilumba koli Kanshi kuibika mu mfwa\nFyancitilyo kuti nshibuke",
-      "Nalekele fibi fyonse Ukuti ine mpusuke\nBumpulamafunde bwandli Bwanengele ukubipa",
-      "Naiminine ukwali Nefya bonaushi bwandli\nNo mwenso walinjikete No tulo twasalangene",
-      "No mutima wafumine Ukunanga lesa wandi\nFumaapo wiminine Kuti wifwila popene",
-      "Natile we mfumu yandi Namono kubifya kwandi\nElyo nati: mfumu yandi Naishibo kuti fyapwa\nKwa katula lesa wandi.\nAmen"
+      "Ine naleti ndewamya Mufyo nalecita fyonse\nLubuto Iwambalikile Namono ukuti nalifwa\nNaishibe bwino bwino Ukuti nali muntu mubi",
+      "Napulile funde lyenu Nshasumine nelyo limo\nNali ne cilumba ukoli, Kanshi kuibika mu mfwa\nFyancitile umuntu mubi, Kwashele ukuti nshibuke",
+      "Nalekele fibi fyonse Ukuti ine mpusuke\nBumpulamafunde bwandli Bwanengele ukubipa\nNaiminine ukwali Nefya bonaushi bwandi",
+      "No mwenso walinjikete No tulo twasalangene\nNo mutima wafumine, ukunanga Lesa wandi\nFumaapo wiminine, Kuti wifwila popene",
+      "Natile we Mfumu yandi Namono kubifya kwandi\nElyo nati: mfumu yandi Naishibo kuti fyapwa\nKwa katula lesa wandi.\nAmen"
     ],
   },
   {
