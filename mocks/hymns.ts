@@ -2616,10 +2616,10 @@ export const HYMNS: Hymn[] = [
     category: "Prayer",
     verses: [],
     versesBemba: [
-      "Fikilishenyu bulyo Lesa mfumu mwebacine\nAbantu ba fyalo fyonse Basange ubupususho",
-      "Makufi ya muno calo Yalefukamina iwe\nUkuti indimi shonse Shilumbanye shina Iyobe",
+      "Fikilishenyi ubulyo Lesa mfumu mwebacine\nAbantu ba fyalo fyonse Basange ubupususho",
+      "Makufi ya muno calo Yalefukamina iwe\nUkuti ndimi shonse Shilumbanye shina Iyobe",
       "Yesu mfumu ututeke Niwe uleto mutende\nUkulubaluba kwesu Ekwaonaule calo",
-      "Mone calo cesu mfumu Welele fibi fyaciko\nWitekele ku bukali Kuti Iwafwo lupwa Iwesu",
+      "Mone calo cesu mfumu Welele fibi fyaciko\nWitekela ku bukali Kuti lwafwo lupwa Iwesu",
       "Utukanye twilasula Amafunde yobe yonse\nWise utwimye fye bonse Tumfwe ifyacine cobe.\nAmen"
     ],
   },
@@ -2633,14 +2633,10 @@ export const HYMNS: Hymn[] = [
     versesBemba: [
       "Muntungulule mwe mfumu ku mulonga\nWa menshi yenu ayamweo\nAyabengeshima nga kulusitali\nUmulonga uyo wa mweo",
       "Iseni Iseni Iseni Iseni\nMwise munwe ayabupe fye\nIseni Iseni Iseni Iseni uwaumfwe cilaka ese",
-      "Nga nanmwa menshi ya mulopa wa mweo\nNaposhiwe cine ku m’tima\nKukabila konse ne cilaka fyapwa\nMwe mfumu nimwe nkwela yandi",
-      "Iseni Iseni Iseni Iseni\nMwise munwe ayabupe fye\nIseni Iseni Iseni Iseni uwaumfwe cilaka ese",
+      "Nga nanmwa menshi ya mulonga wa mweo\nNaposhiwe cine ku m’tima\nKukabila konse ne cilaka fyapwa\nMwe mfumu nimwe nkwela yandi",
       "We mupashi wacine sumina lesa\nUpokelele cabupe fye\nCetekela uposhiwe mu mutima\nMwe mfumu nimwe nkwela yandi",
-      "Iseni Iseni Iseni Iseni\nMwise munwe ayabupe fye\nIseni Iseni Iseni Iseni uwaumfwe cilaka ese",
       "Ifyabako fyonse fya calo ca panshi\nMwe mfumu nimwe mwafibumba\nMpili na mabemba makumbi ku mulu\nMwe mfumu nimwe mwafibumba",
-      "Iseni Iseni Iseni Iseni\nMwise munwe ayabupe fye\nIseni Iseni Iseni Iseni uwaumfwe cilaka ese",
       "Mwe mfumu nimwe mwasosele ku bantu\nMwatuminyo mwana wa mpanga\nKu kwisakukulule fibi fya calo\nKuti calo cibe cintungwa",
-      "Iseni Iseni Iseni Iseni\nMwise munwe ayabupe fye\nIseni Iseni Iseni Iseni uwaumfwe cilaka ese\nAmen"
     ],
   },
   {
@@ -3320,12 +3316,13 @@ export const HYMNS: Hymn[] = [
     category: "Service",
     verses: [],
     versesBemba: [
-      "Mwe lesa mwe kafwa wa bantu bonse\nMwe lesa mwe kafwa wa bantu bonse\nMwe bapela maka mulimo ukule\nMulimo ukule\nMulimo wakwa lesa teti ulale\nMulimo ukule",
-      "Ifwe twasumino mulimo wenu\nTube no kushipa mulimo ukule\nMulimo ukule\nMulimo wakwa lesa teti ulale\nMulimo ukule",
-      "Yesu mfumu yesu suminisheni\nMutupelya maka mulimo ukule\nMulimo ukule\nMulimo wakwa lesa teti ulale\nMulimo ukule",
-      "Fwe tuleilanga ku bantu bonse\nTuli bakamboni mulimo ukule\nMulimo ukule\nMulimo ukule Mulimo wakwa lesa teti ulale\nMulimo ukule",
-      "Tamfyenimo mwenso mutupyo kushipa\nTucimfye satana mulimo ukule\nMulimo ukule\nMulimo wakwa lesa teti ulale\nMulimo ukule",
-      "Mwisalisheko fye ku fakweshiwa\nTuli na balwani mulimo ukule\nMulimo ukule\nMulimo wakwa lesa teti ulale\nMulimo ukule"
+      "Mwe lesa mwe kafwa wa bantu bonse\nMwebapela maka mulimo ukule",
+      "Mulimo ukule, Mulimo ukule\nMulimo wakwa lesa teti ulale\nMulimo ukule",
+      "Ifwe twasumino mulimo wenu\nTube no kushipa mulimo ukule",
+      "Yesu mfumu yesu suminisheni\nMutupelya maka mulimo ukule",
+      "Fwe tuleilanga ku bantu bonse\nTuli bakamboni mulimo ukule",
+      "Tamfyenimo mwenso mutupyo kushipa\nTucimfye satana mulimo ukule",
+      "Mwisalisheko fye ku fakweshiwa\nTuli na balwani mulimo ukule",
     ],
   },
   {
